@@ -11,5 +11,6 @@ rule "average"
     then
         System.out.println("Category "+$category);
         System.out.println("Price "+$avgPrice);
+        System.out.println("-------------------");
 end
 
